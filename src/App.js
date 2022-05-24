@@ -117,7 +117,7 @@ function App() {
             />
           ))
         ) : (
-          <Placeholder src="/icon.gif" />
+          <Placeholder src="icon.gif" />
         )}
       </MovieListContainer>
     </Container>
