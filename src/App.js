@@ -95,7 +95,7 @@ function App() {
       <Header>
         <AppName>
           <MovieImage src="icon.gif" />
-          MovieInfo
+          MovieInfo //Web app name
         </AppName>
         <SearchBox>
           <SearchIcon src="search.gif" />
